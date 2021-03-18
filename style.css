@@ -238,3 +238,37 @@ section {
 .footer a {
     color: white;
 }
+/*Fuelhtml page specifications */
+.fuelfooter {
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-size: 12pt;  
+    position: relative;
+
+}
+.fuelfooter p {
+    margin-top: -10px;
+}
+.fuelfooter a {
+    color: white;
+}
+
+.propane img{
+    width: 33%;
+    height: auto;
+    align-items: center;
+    padding-bottom: 11px;
+    padding-left: 4px;
+    
+    margin-top: -27px;
+}
+
+.fuelheader h1 {
+    color: black;
+    padding-top: -10;
+    font-size: 6vw;
+    -webkit-text-stroke: 3px rgb(228, 18, 18);
+        
+}
